@@ -1,11 +1,11 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode": 3610,
-    "versionname": "3.6.1",
+    "app_id": "no.atami.ailaring",
+    "appname": "aiLæring",
+    "desktopappname": "aiLæring",
+    "versioncode": 10,
+    "versionname": "1.0",
     "cache_expiration_time": 300000,
-    "default_lang": "en",
+    "default_lang": "no",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -66,7 +66,7 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://ailaring.no",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
